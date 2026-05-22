@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Owais Khan</h1>
+<h3 align="center">Frontend Developer | React Developer | Founder of EliteWeb Studio</h3>
 
-<!--
-**owaiskhan03169-debug/owaiskhan03169-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I build modern, responsive, and user-focused web experiences using React, Tailwind CSS, and JavaScript.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently improving my skills in **React, Tailwind CSS, and Frontend Development**
+- 💻 Building modern websites and UI projects
+- 🎯 Focused on responsive and clean web experiences
+- ⚡ Founder of **EliteWeb Studio**
+- 📫 Reach me at: **owaiskhan03169@gmail.com**
+
+---
+
+## 🌐 Portfolio & Socials
+
+- 🌍 Portfolio: https://owaiskhan-portfolio.netlify.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/owais860khan270/
+- 📸 Instagram: https://www.instagram.com/eliteweb_studio.co/
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Netlify
+- Vite
+
+---
+
+## 📌 Featured Projects
+
+### 🏫 Modern School Website
+Responsive school website designed for a real educational institution with admission sections, gallery, faculty showcase, and modern academic UI.
+
+### 👕 Velora Fashion
+Modern fashion eCommerce frontend with responsive UI, category sections, product showcases, and premium fashion aesthetics.
+
+### 🏋️ Gym Website
+Modern fitness website with responsive design, membership sections, trainer showcase, and strong branding-focused UI.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=owaiskhan03169-debug&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owaiskhan03169-debug&theme=tokyonight" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaiskhan03169-debug&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ✨ Quote
+
+> “Consistency and real projects build stronger developers than tutorials.”
+
+---
+
+<p align="center">
+  Thanks for visiting my profile ❤️
+</p>
