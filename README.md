@@ -59,13 +59,20 @@ Modern fitness website with responsive design, membership sections, trainer show
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owaiskhan03169-debug&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=owaiskhan03169-debug&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owaiskhan03169-debug&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=owaiskhan03169-debug&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaiskhan03169-debug&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 💻 Most Used Languages
